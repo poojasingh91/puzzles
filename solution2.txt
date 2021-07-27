@@ -1,0 +1,4 @@
+image link: "https://hub.docker.com/r/poojasingh91/web-api"
+
+after pull
+run  "docker run poojasing91/web-api"
